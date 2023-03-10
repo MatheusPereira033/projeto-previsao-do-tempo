@@ -5,4 +5,4 @@
 <br>
 <h3>Nesse projeto tive meu primeiro contato com JavaScript</h3>
 
-<img src="https://github.com/MatheusPereira033/projeto-previsao-do-tempo/blob/master/Screenshot_1.png?raw=true>
+<img src="https://github.com/MatheusPereira033/projeto-previsao-do-tempo/blob/master/Screenshot_1.png?raw=true">
